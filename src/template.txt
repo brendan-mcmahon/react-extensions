@@ -1,0 +1,8 @@
+import React from 'react';
+import "./<COMPONENTNAME>.scss";
+
+export const <COMPONENTNAME> = () => {
+    return (
+        <div></div>
+    )
+}
