@@ -1,6 +1,7 @@
 {
 	"name": "react-extensions",
 	"displayName": "React Extensions",
+	"publisher": "brendan-mcmahon",
 	"description": "",
 	"version": "0.0.1",
 	"engines": {
